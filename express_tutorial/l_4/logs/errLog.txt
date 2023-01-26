@@ -1,0 +1,10 @@
+20230124	21:16:11	41809875-1f77-4291-b046-503660923850	ReferenceError: whiteList is not defined
+20230126	22:06:28	67380074-366e-4440-b532-586fef2e2b04	SyntaxError: Unexpected token f in JSON at position 9
+20230126	22:06:47	cd3f39d0-5767-4329-a267-b65953eaa28f	SyntaxError: Unexpected token } in JSON at position 63
+20230126	22:06:58	7e6c0d5a-c25f-455d-8378-0c0763596407	SyntaxError: Unexpected token } in JSON at position 59
+20230126	22:07:07	2a17b324-1a5b-4d69-ae5f-1ff637c37301	SyntaxError: Unexpected token " in JSON at position 4
+20230126	22:07:13	7caceab1-70c4-400a-8440-d9112c630ce2	SyntaxError: Unexpected token " in JSON at position 0
+20230126	22:07:16	989551c0-8dff-4731-b868-d13698d31283	SyntaxError: Unexpected token " in JSON at position 0
+20230126	22:07:21	b5ac94c8-e6f5-448e-b7d1-89ab74c9cc06	SyntaxError: Unexpected token } in JSON at position 55
+20230126	22:07:26	e846708e-754a-4dc5-930e-7d7c8e9de30b	SyntaxError: Unexpected token } in JSON at position 59
+20230126	22:08:08	c7942df6-e046-4b9b-b06b-c3097d5b11c7	SyntaxError: Unexpected token } in JSON at position 21
